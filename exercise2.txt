@@ -1,0 +1,11 @@
+Question 1- What happens when the number of hidden nodes increase?
+
+Answer - The accuracy improves significantly when the number of hidden nodes increase upto a certain point
+
+
+
+
+Question 2- Can you explain the pattern of the accuracy when the hidden nodes increase?
+
+Answer - The accuracy improves significantly when the number of hidden nodes increase. The highest accuracy is achieved with 5 hidden units (91.25%). 
+but it slightly decreases for 20 and 50 hidden units. It means beyond a certain point, adding more hidden units does not lead to overfitting.
